@@ -5,26 +5,19 @@ Master of Engineering (Software Systems + Engineering Management) student at Uni
 ## Tech Stack
 
 **Programming & Developement:**
-Python, C, C#, .NET, SQL 
-
+Python, C, C#, .NET, SQL  
 **Database:**
-MySQL, SQL Server
-
+MySQL, SQL Server  
 **Cloud & Infrastructure:**
-AWS (EC2, RDS, Elastic Beanstalk, VPC), Salesforce Force.com 
-
+AWS (EC2, RDS, Elastic Beanstalk, VPC), Salesforce Force.com  
 **Testing & QA:**
-Functional & Non-Functional Testing, Test Case Design, Debugging, SDLC
-
+Functional & Non-Functional Testing, Test Case Design, Debugging, SDLC  
 **Networking:**
-LAN/WAN, TCP/IP, DNS, DHCP
-
+LAN/WAN, TCP/IP, DNS, DHCP  
 **Tools:**
-AutoCAD, GENIE, Microsoft 365, MS Exchange, MS Project, Power BI
-
+AutoCAD, GENIE, Microsoft 365, MS Exchange, MS Project, Power BI  
 **Methodologies:**
-Agile, Scrum, SDLC, Root Cause Analysis (RCA), FMEA, Six Sigma, DMAIC
-
+Agile, Scrum, SDLC, Root Cause Analysis (RCA), FMEA, Six Sigma, DMAIC  
 **UI/UX Design & Creative:**
 Figma, Adobe Photoshop, Canva
 
