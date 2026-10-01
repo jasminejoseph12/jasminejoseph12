@@ -1,6 +1,6 @@
 # Hey, I'm Jasmine :)
 
-Master of Engineering (Software Systems + Engineering Management) student at University of Technology Sydney. I build software, work with data, and occasionally design things.
+Master of Engineering (Software Systems + Engineering Management) student at University of Technology Sydney. 
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ Agile, Scrum, SDLC, Root Cause Analysis (RCA), FMEA, Six Sigma, DMAIC
 Figma, Adobe Photoshop, Canva
 
 ## Currently Working On
-- Building projects and portfolio application
+- Building projects and a portfolio 
 
 **Open to internships and casual roles in Sydney across Software Development · Business Analytics · 
 IT Support · Project Coordination :)**
